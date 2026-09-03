@@ -80,10 +80,9 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanjaisingkar1266&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjaisingkar1266&layout=compact&theme=radical" alt="Top Languages" />
+### 📊 GitHub Stats & Activity<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanjaisingkar1266&show_icons=true&theme=radical&v=1&cache_seconds=86400" alt="Aryan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjaisingkar1266&layout=compact&theme=radical&v=1&cache_seconds=86400" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=aryanjaisingkar1266&theme=radical" alt="Aryan's GitHub Streak" />
