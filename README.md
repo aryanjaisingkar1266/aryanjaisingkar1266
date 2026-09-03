@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer & CSE Student crafting scalable web applications and advanced tech systems.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aryanjaisingkar1266&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
