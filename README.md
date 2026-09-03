@@ -81,7 +81,6 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanjaisingkar1266&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjaisingkar1266&layout=compact&theme=radical" alt="Top Languages" />
