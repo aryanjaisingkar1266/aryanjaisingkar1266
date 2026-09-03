@@ -81,12 +81,11 @@ Objectives of application:-
 
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanjaisingkar1266&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjaisingkar1266&theme=radical" alt="Aryan's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aryanjaisingkar1266&theme=radical" alt="Aryan's GitHub Streak" />
 </p>
